@@ -1,3 +1,3 @@
-# MySQL projeto 
-Banco_de_Dados_Empresa_Vagabundos_Anônimos
+# MySQL 
 ### By Joel jr
+Repositorio para estudo e prática do MySQL.
