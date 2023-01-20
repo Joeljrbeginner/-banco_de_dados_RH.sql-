@@ -1,2 +1,3 @@
-# -banco_de_dados_RH.sql-
+# MySQL projeto 
 Banco_de_Dados_Empresa_Vagabundos_Anônimos
+### By Joel jr
